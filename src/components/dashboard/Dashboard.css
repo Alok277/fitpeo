@@ -1,0 +1,20 @@
+.parent {
+  position: fixed;
+  margin-left: 12px;
+  margin-top: none;
+}
+.child {
+  position: absolute;
+  margin-top: -22px;
+  margin-left: 7px;
+  font-size: x-small;
+}
+
+.apexcharts-bar-area:hover {
+  fill: #0C10ED !important;
+}
+
+/* .apexcharts-pie-area.apexcharts-donut-slice-1 {
+  size: 90% !important;
+} */
+
